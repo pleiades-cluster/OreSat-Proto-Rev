@@ -55,7 +55,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "clearance|137551100|82303600|11b5423a-554e-45b4-9ae5-0a32ce51e0a2|ceccf802-5556-4969-848e-3cae4792fafa",
+        "clearance|146451100|80303600|ce4e049e-17ad-4ea4-8310-5a4322ab37a7|5eb4bb1b-2708-47f7-ab92-a295de3ef69b"
+      ],
       "meta": {
         "filename": "board_design_settings.json",
         "version": 2
@@ -145,6 +148,10 @@
         {
           "diameter": 0.6,
           "drill": 0.3
+        },
+        {
+          "diameter": 1.26,
+          "drill": 1.0
         }
       ],
       "zones_allow_external_fillets": false,
