@@ -2130,7 +2130,7 @@
 
   (footprint "oresat-proto-card:STAND-OFF-TIGHT" (layer "F.Cu")
     (tedit 0) (tstamp 4b30d701-7832-47f6-aee0-c1de65919ab4)
-    (at 191.6011 64.6036)
+    (at 191 64.6036)
     (descr "<h3>Standoff (#4 Screw) - Tight fit around screw body</h3>\n<p>This is the mechanical footprint for a #4 phillips button head screw. Use the keepout ring to avoid running the screw head into surrounding components.</p>\n<h4>Devices Using</h4>\n<ul><li>STAND-OFF</li></ul>")
     (property "Sheetfile" "Connectors.kicad_sch")
     (property "Sheetname" "Connectors")
@@ -2580,7 +2580,7 @@
 
   (footprint "oresat-proto-card:STAND-OFF-TIGHT" (layer "F.Cu")
     (tedit 0) (tstamp 5aac6042-e24f-401a-a131-1071e6dfde32)
-    (at 104.6011 64.6036)
+    (at 105 64.6036)
     (descr "<h3>Standoff (#4 Screw) - Tight fit around screw body</h3>\n<p>This is the mechanical footprint for a #4 phillips button head screw. Use the keepout ring to avoid running the screw head into surrounding components.</p>\n<h4>Devices Using</h4>\n<ul><li>STAND-OFF</li></ul>")
     (property "Sheetfile" "Connectors.kicad_sch")
     (property "Sheetname" "Connectors")
@@ -5419,7 +5419,7 @@
 
   (footprint "" (layer "F.Cu")
     (tedit 0) (tstamp b2d10a14-1295-48bf-98ab-d6715127a0a4)
-    (at 103.886 147.574)
+    (at 105 147.574)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
       (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp fe6dec6d-24a9-4ab9-87a9-a9f6120fe571)
@@ -6572,7 +6572,7 @@
 
   (footprint "" (layer "F.Cu")
     (tedit 0) (tstamp d34a2f20-62a3-492d-b77b-c3b8dea06a3d)
-    (at 192.024 147.32)
+    (at 191 147.32)
     (fp_text reference "" (at 0 0) (layer "F.SilkS")
       (effects (font (size 1.27 1.27) (thickness 0.15)))
       (tstamp 89cd463e-0a1a-43fc-9a22-209369010a26)
