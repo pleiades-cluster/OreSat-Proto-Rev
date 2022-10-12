@@ -64,9 +64,6 @@
     (path "/9b37545b-383a-4e53-bd7e-0dde7bc861e7/42c2f9b4-f53b-409e-8b30-766ef27794f8"
       (reference "#FRAME4") (unit 2) (value "FRAME_B_L") (footprint "oresat-proto-card:")
     )
-    (path "/d13c43b4-9e4c-48f6-aa63-6e11a38c29d9/25e41c88-be68-43b4-9945-0ba14922843e"
-      (reference "#GND01") (unit 1) (value "GND") (footprint "oresat-proto-card:")
-    )
     (path "/d13c43b4-9e4c-48f6-aa63-6e11a38c29d9/3fd41e9b-2a91-43fe-b62e-11ec9b976da2"
       (reference "#GND02") (unit 1) (value "GND") (footprint "oresat-proto-card:")
     )
@@ -91,9 +88,6 @@
     (path "/65906ae1-caa6-4da6-81a5-91bc39aac43c/2dc9c02a-bac2-4318-881f-804cb9e30fc1"
       (reference "#GND09") (unit 1) (value "GND") (footprint "oresat-proto-card:")
     )
-    (path "/d13c43b4-9e4c-48f6-aa63-6e11a38c29d9/0eb6f8c9-90bb-41ec-80c3-11505b5123ba"
-      (reference "#GND010") (unit 1) (value "GND") (footprint "oresat-proto-card:")
-    )
     (path "/65906ae1-caa6-4da6-81a5-91bc39aac43c/0f49e630-f8ed-4ecc-86af-9e760755e02a"
       (reference "#GND011") (unit 1) (value "GND") (footprint "")
     )
@@ -102,9 +96,6 @@
     )
     (path "/65906ae1-caa6-4da6-81a5-91bc39aac43c/54b965c3-4955-42be-ab67-c800c75e1fde"
       (reference "#GND013") (unit 1) (value "GND") (footprint "oresat-proto-card:")
-    )
-    (path "/d13c43b4-9e4c-48f6-aa63-6e11a38c29d9/896c678e-cb00-4744-8d24-68589a0c3424"
-      (reference "#GND014") (unit 1) (value "GND") (footprint "oresat-proto-card:")
     )
     (path "/65906ae1-caa6-4da6-81a5-91bc39aac43c/b7090b9a-c57c-4721-9fb0-f2a74bb819c9"
       (reference "#GND015") (unit 1) (value "GND") (footprint "oresat-proto-card:")
@@ -313,15 +304,6 @@
     (path "/65906ae1-caa6-4da6-81a5-91bc39aac43c/b41953d0-35b3-4be5-84fa-369303b0ed6d"
       (reference "C23") (unit 1) (value "1u") (footprint "oresat-proto-card:.0603-C-NOSILK")
     )
-    (path "/d13c43b4-9e4c-48f6-aa63-6e11a38c29d9/df34cba2-f357-4fd9-bd86-4cb73438cb4d"
-      (reference "CM1") (unit 1) (value "J-MOLEX-SMPM-73300-003X") (footprint "oresat-proto-card:J-MOLEX-SMPM-073300-003X")
-    )
-    (path "/d13c43b4-9e4c-48f6-aa63-6e11a38c29d9/17ac6586-c20c-4b06-bac0-99df54dbe438"
-      (reference "CM2") (unit 1) (value "J-MOLEX-SMPM-73300-003X") (footprint "oresat-proto-card:J-MOLEX-SMPM-073300-003X")
-    )
-    (path "/d13c43b4-9e4c-48f6-aa63-6e11a38c29d9/86e36b2f-7901-4a38-8ed5-3cd95ab77374"
-      (reference "CM3") (unit 1) (value "J-MOLEX-SMPM-73300-003X") (footprint "oresat-proto-card:J-MOLEX-SMPM-073300-003X")
-    )
     (path "/65906ae1-caa6-4da6-81a5-91bc39aac43c/f50088e0-900b-46b6-8816-9ecadf04dc22"
       (reference "D3") (unit 1) (value "GREEN") (footprint "oresat-proto-card:LED-0603")
     )
@@ -377,10 +359,10 @@
       (reference "L1") (unit 1) (value "3.3uH") (footprint "MaxLib:L_2141")
     )
     (path "/65906ae1-caa6-4da6-81a5-91bc39aac43c/a3f8312f-e3fe-4368-93b7-1edbd74b6c36"
-      (reference "Q1") (unit 1) (value "DMP2240UDM") (footprint "oresat-proto-card:SOT23-6")
+      (reference "Q1") (unit 1) (value "~") (footprint "oresat-proto-card:SOT23-6")
     )
     (path "/65906ae1-caa6-4da6-81a5-91bc39aac43c/9d0fc71f-868d-4a25-9cab-ca6bd045e5b4"
-      (reference "Q1") (unit 2) (value "DMP2240UDM") (footprint "oresat-proto-card:SOT23-6")
+      (reference "Q1") (unit 2) (value "~") (footprint "oresat-proto-card:SOT23-6")
     )
     (path "/65906ae1-caa6-4da6-81a5-91bc39aac43c/de66b1d1-fbb6-4a1b-8447-085537b2e830"
       (reference "Q2") (unit 1) (value "MOSFET-PCH-SOT23-6") (footprint "oresat-proto-card:SOT23-6")
@@ -614,7 +596,7 @@
       (reference "U3") (unit 1) (value "TPS54226PWPRPWP14_2P31X2P46-L") (footprint "MaxLib:PWP14_2P31X2P46-L")
     )
     (path "/65906ae1-caa6-4da6-81a5-91bc39aac43c/d0f90bd6-e5d1-4fd5-bf2a-b984866568ac"
-      (reference "U6") (unit 1) (value "MAX4211FETE") (footprint "oresat-proto-card:QFN65P400X400X80-17T210")
+      (reference "U6") (unit 1) (value "MAX4211FETE+") (footprint "oresat-proto-card:QFN65P400X400X80-17T210")
     )
     (path "/9b37545b-383a-4e53-bd7e-0dde7bc861e7/df1f3901-60f1-427e-88d8-b4e1453bd82e"
       (reference "U7") (unit 1) (value "STM32F091C") (footprint "oresat-proto-card:STM32F091C")

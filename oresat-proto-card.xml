@@ -1,0 +1,2717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\bronc\Documents\PCB Stuff\OreSat_Proto_Rev\OreSat-Proto-Rev\oresat-proto-card.kicad_sch</source>
+    <date>10/12/2022 4:32:53 PM</date>
+    <tool>Eeschema (6.0.7)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>oresat-proto-card.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Connectors/" tstamps="/d13c43b4-9e4c-48f6-aa63-6e11a38c29d9/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Connectors.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Power.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Microcontroller.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="H2">
+      <value>STAND-OFFTIGHT</value>
+      <footprint>oresat-proto-card:STAND-OFF-TIGHT</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="STAND-OFFTIGHT" description=""/>
+      <property name="Sheetname" value="Connectors"/>
+      <property name="Sheetfile" value="Connectors.kicad_sch"/>
+      <sheetpath names="/Connectors/" tstamps="/d13c43b4-9e4c-48f6-aa63-6e11a38c29d9/"/>
+      <tstamps>8d5c2cdb-6310-4c41-a2b3-0f1636a8a409</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>STAND-OFFTIGHT</value>
+      <footprint>oresat-proto-card:STAND-OFF-TIGHT</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="STAND-OFFTIGHT" description=""/>
+      <property name="Sheetname" value="Connectors"/>
+      <property name="Sheetfile" value="Connectors.kicad_sch"/>
+      <sheetpath names="/Connectors/" tstamps="/d13c43b4-9e4c-48f6-aa63-6e11a38c29d9/"/>
+      <tstamps>486f3a0c-0a3f-4602-8edb-09f730c080cf</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>J-SAMTEC-TFM-110-X1-XXX-D-RA</value>
+      <footprint>oresat-proto-card:J-SAMTEC-TFM-110-X1-XXX-D-RA</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="J-SAMTEC-TFM-110-X1-XXX-D-RA" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Connectors"/>
+      <property name="Sheetfile" value="Connectors.kicad_sch"/>
+      <sheetpath names="/Connectors/" tstamps="/d13c43b4-9e4c-48f6-aa63-6e11a38c29d9/"/>
+      <tstamps>96a192c8-382c-441b-a195-f7f25fc75c53</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>U.FL</value>
+      <footprint>oresat-proto-card:U.FL</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="U.FL2PIN" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Connectors"/>
+      <property name="Sheetfile" value="Connectors.kicad_sch"/>
+      <sheetpath names="/Connectors/" tstamps="/d13c43b4-9e4c-48f6-aa63-6e11a38c29d9/"/>
+      <tstamps>97b9b6e9-f2e3-4583-8835-438882bf25db</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>U.FL</value>
+      <footprint>oresat-proto-card:U.FL</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="U.FL2PIN" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Connectors"/>
+      <property name="Sheetfile" value="Connectors.kicad_sch"/>
+      <sheetpath names="/Connectors/" tstamps="/d13c43b4-9e4c-48f6-aa63-6e11a38c29d9/"/>
+      <tstamps>1c38101b-f44d-473d-b89b-a322179af5e1</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>U.FL</value>
+      <footprint>oresat-proto-card:U.FL</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="U.FL2PIN" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Connectors"/>
+      <property name="Sheetfile" value="Connectors.kicad_sch"/>
+      <sheetpath names="/Connectors/" tstamps="/d13c43b4-9e4c-48f6-aa63-6e11a38c29d9/"/>
+      <tstamps>68ed2943-bc61-4a09-a35e-686741af5ebb</tstamps>
+    </comp>
+    <comp ref="J6">
+      <value>J-SAMTEC-TFM-120-X1-XXX-D-RA</value>
+      <footprint>oresat-proto-card:J-SAMTEC-TFM-120-X1-XXX-D-RA</footprint>
+      <fields>
+        <field name="Generic">N</field>
+        <field name="Manufacturer_Name">Samtech</field>
+        <field name="Manufacturer_Part_Number">TFM-120-01-L-D-RA</field>
+      </fields>
+      <libsource lib="oresat-proto-card-eagle-import" part="J-SAMTEC-TFM-120-X1-XXX-D-RA" description=""/>
+      <property name="Value" value=""/>
+      <property name="Manufacturer_Part_Number" value="TFM-120-01-L-D-RA"/>
+      <property name="Manufacturer_Name" value="Samtech"/>
+      <property name="Generic" value="N"/>
+      <property name="Sheetname" value="Connectors"/>
+      <property name="Sheetfile" value="Connectors.kicad_sch"/>
+      <sheetpath names="/Connectors/" tstamps="/d13c43b4-9e4c-48f6-aa63-6e11a38c29d9/"/>
+      <tstamps>f72b601d-89bc-4f04-b2fa-4d0bd0d181f7</tstamps>
+    </comp>
+    <comp ref="JP2">
+      <value>PINHD-2X5</value>
+      <footprint>oresat-proto-card:2X05</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="PINHD-2X5" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Connectors"/>
+      <property name="Sheetfile" value="Connectors.kicad_sch"/>
+      <sheetpath names="/Connectors/" tstamps="/d13c43b4-9e4c-48f6-aa63-6e11a38c29d9/"/>
+      <tstamps>603be5a5-9874-48d0-9bd2-99de42558421</tstamps>
+    </comp>
+    <comp ref="JP9">
+      <value>PINHD-1X10</value>
+      <footprint>oresat-proto-card:1X10</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="PINHD-1X10" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Connectors"/>
+      <property name="Sheetfile" value="Connectors.kicad_sch"/>
+      <sheetpath names="/Connectors/" tstamps="/d13c43b4-9e4c-48f6-aa63-6e11a38c29d9/"/>
+      <tstamps>3af5fe0a-633c-4f03-919e-3cffa8cb57b2</tstamps>
+    </comp>
+    <comp ref="JP10">
+      <value>PINHD-2X5</value>
+      <footprint>oresat-proto-card:2X05</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="PINHD-2X5" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Connectors"/>
+      <property name="Sheetfile" value="Connectors.kicad_sch"/>
+      <sheetpath names="/Connectors/" tstamps="/d13c43b4-9e4c-48f6-aa63-6e11a38c29d9/"/>
+      <tstamps>e09e3934-360b-4561-825d-2386fa1c7dad</tstamps>
+    </comp>
+    <comp ref="C1">
+      <value>10u</value>
+      <footprint>oresat-proto-card:.0805-B-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="C-EU0805-B-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>0d3e3719-763a-4d5f-8ea5-4931f922aa7c</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">22uF +-20% 10V X5R</field>
+      </fields>
+      <libsource lib="mainboard" part="22UF-0805-6.3V-20%" description=""/>
+      <property name="Description" value="22uF +-20% 10V X5R"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>19b2f267-3159-4340-83d3-f09706dd2c8d</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>100n</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="C-EU0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>db16f4c8-dbbc-43e2-8136-e7551c8b49ca</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">22uF +-20% 10V X5R</field>
+      </fields>
+      <libsource lib="mainboard" part="22UF-0805-6.3V-20%" description=""/>
+      <property name="Description" value="22uF +-20% 10V X5R"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>d30e9d94-160e-45fd-99cc-0a65c87c652f</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100uF</value>
+      <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
+      <fields>
+        <field name="Description">100uF 16V X5R 1210</field>
+      </fields>
+      <libsource lib="mainboard" part="22UF-1210-16V-20%" description=""/>
+      <property name="Description" value="100uF 16V X5R 1210"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>1f4b1b81-2b0c-416e-982b-7e3cfc21ce3b</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100uF</value>
+      <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
+      <fields>
+        <field name="Description">100uF 16V X5R 1210</field>
+      </fields>
+      <libsource lib="mainboard" part="22UF-1210-16V-20%" description=""/>
+      <property name="Description" value="100uF 16V X5R 1210"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>045d22fe-3758-4c4c-b475-b9b7211caa0f</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">0.1uF +-10% 50V X7R 0603</field>
+      </fields>
+      <libsource lib="mainboard" part="1.0UF-0603-16V-10%" description=""/>
+      <property name="Description" value="0.1uF +-10% 50V X7R 0603"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>e2b672f6-3658-42a3-b79e-4431d58b30a2</tstamps>
+    </comp>
+    <comp ref="C8">
+      <value>1u</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="C-EU0603-C-NOSILK" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>87a46a70-45c5-4804-913d-abc8d8c28f49</tstamps>
+    </comp>
+    <comp ref="C9">
+      <value>3.3nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">3.3nF +-10% 100V X7R 0603</field>
+      </fields>
+      <libsource lib="mainboard" part="3.3NF-0603-100V-10%" description=""/>
+      <property name="Description" value="3.3nF +-10% 100V X7R 0603"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>f5883d6a-d822-4c27-8590-32d8ab0b85e2</tstamps>
+    </comp>
+    <comp ref="C10">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">1uF 0603 X7R</field>
+      </fields>
+      <libsource lib="mainboard" part="1.0UF-0603-16V-10%" description=""/>
+      <property name="Description" value="1uF 0603 X7R"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>a6513f4c-545d-4a58-84a8-edc671138878</tstamps>
+    </comp>
+    <comp ref="C17">
+      <value>1u</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="C-EU0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>8ca44bb6-99ec-4da6-b4e9-f7bed83ca45e</tstamps>
+    </comp>
+    <comp ref="C22">
+      <value>1u</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="C-EU0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>3de19177-f048-44ad-b1fe-1ef02233e9d2</tstamps>
+    </comp>
+    <comp ref="C23">
+      <value>1u</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="C-EU0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>b41953d0-35b3-4be5-84fa-369303b0ed6d</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>GREEN</value>
+      <footprint>oresat-proto-card:LED-0603</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="LED-GREEN0603" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>f50088e0-900b-46b6-8816-9ecadf04dc22</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>GREEN</value>
+      <footprint>oresat-proto-card:LED-0603</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="LED-GREEN0603" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>6ff037f4-ef8e-41eb-a0e7-91803e4a75f8</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>AMBER</value>
+      <footprint>oresat-proto-card:LED-0603</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="LED-GREEN0603" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>8be09022-48a9-43ee-90be-710ebed8108d</tstamps>
+    </comp>
+    <comp ref="L1">
+      <value>3.3uH</value>
+      <footprint>MaxLib:L_2141</footprint>
+      <datasheet>https://datasheet.lcsc.com/lcsc/2009171412_TAI-TECH-HPC5040NF-3R3MTH_C304367.pdf</datasheet>
+      <fields>
+        <field name="Description">3.3uH Shielded Inductor</field>
+        <field name="Flight">SPM5030T-3R3M-HZ</field>
+        <field name="Manufacturer_Name">TAI-TECH</field>
+        <field name="Manufacturer_Part_Number">HPC5040NF-3R3MTH</field>
+        <field name="Proto">HPC5040NF-3R3MTH</field>
+      </fields>
+      <libsource lib="Device" part="L" description="Inductor"/>
+      <property name="Description" value="3.3uH Shielded Inductor"/>
+      <property name="Flight" value="SPM5030T-3R3M-HZ"/>
+      <property name="Manufacturer_Name" value="TAI-TECH"/>
+      <property name="Manufacturer_Part_Number" value="HPC5040NF-3R3MTH"/>
+      <property name="Proto" value="HPC5040NF-3R3MTH"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>0b2f868b-212a-42c0-bfc3-5d478a472543</tstamps>
+    </comp>
+    <comp ref="Q1">
+      <value>~</value>
+      <footprint>oresat-proto-card:SOT23-6</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/ds31197.pdf</datasheet>
+      <fields>
+        <field name="Description">Mosfet Array 2 P-Channel (Dual) 20V 2A 600mW Surface Mount SOT-26</field>
+        <field name="Generic">N</field>
+        <field name="Manufacturer_Name">Diodes Incorporated</field>
+        <field name="Manufacturer_Part_Number">DMP2240UDM-7</field>
+      </fields>
+      <libsource lib="oresat-proto-card-eagle-import" part="MOSFET-PCH-SOT23-6" description=""/>
+      <property name="Value" value=""/>
+      <property name="Manufacturer_Part_Number" value="DMP2240UDM-7"/>
+      <property name="Manufacturer_Name" value="Diodes Incorporated"/>
+      <property name="Description" value="Mosfet Array 2 P-Channel (Dual) 20V 2A 600mW Surface Mount SOT-26"/>
+      <property name="Generic" value="N"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>a3f8312f-e3fe-4368-93b7-1edbd74b6c36 9d0fc71f-868d-4a25-9cab-ca6bd045e5b4</tstamps>
+    </comp>
+    <comp ref="Q2">
+      <value>MOSFET-PCH-SOT23-6</value>
+      <footprint>oresat-proto-card:SOT23-6</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/DMP3050LVT.pdf</datasheet>
+      <fields>
+        <field name="Description">P-Channel 30 V 4.5A (Ta) 1.8W (Ta) Surface Mount TSOT-26</field>
+        <field name="Generic">N</field>
+        <field name="Manufacturer_Name">Diodes Incorporated</field>
+        <field name="Manufacturer_Part_Number">DMP3050LVT-7</field>
+        <field name="Notes">Make sure to verify footprint</field>
+      </fields>
+      <libsource lib="oresat-proto-card-eagle-import" part="MOSFET-PCH-SOT23-6" description=""/>
+      <property name="Value" value=""/>
+      <property name="Description" value="P-Channel 30 V 4.5A (Ta) 1.8W (Ta) Surface Mount TSOT-26"/>
+      <property name="Manufacturer_Part_Number" value="DMP3050LVT-7"/>
+      <property name="Manufacturer_Name" value="Diodes Incorporated"/>
+      <property name="Generic" value="N"/>
+      <property name="Notes" value="Make sure to verify footprint"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>de66b1d1-fbb6-4a1b-8447-085537b2e830</tstamps>
+    </comp>
+    <comp ref="Q7">
+      <value>MOSFET-PCH-SOT23-6</value>
+      <footprint>oresat-proto-card:SOT23-6</footprint>
+      <datasheet>https://www.diodes.com/assets/Datasheets/DMP3050LVT.pdf</datasheet>
+      <fields>
+        <field name="Description">P-Channel 30 V 4.5A (Ta) 1.8W (Ta) Surface Mount TSOT-26</field>
+        <field name="Generic">N</field>
+        <field name="Manufacturer_Name">Diodes Incorporated</field>
+        <field name="Manufacturer_Part_Number">DMP3050LVT-7</field>
+        <field name="Notes">Make sure to verify footprint</field>
+      </fields>
+      <libsource lib="oresat-proto-card-eagle-import" part="MOSFET-PCH-SOT23-6" description=""/>
+      <property name="Value" value=""/>
+      <property name="Manufacturer_Part_Number" value="DMP3050LVT-7"/>
+      <property name="Manufacturer_Name" value="Diodes Incorporated"/>
+      <property name="Description" value="P-Channel 30 V 4.5A (Ta) 1.8W (Ta) Surface Mount TSOT-26"/>
+      <property name="Generic" value="N"/>
+      <property name="Notes" value="Make sure to verify footprint"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>a7791bbf-0e74-42d8-8ac9-9f3cb6d46c52</tstamps>
+    </comp>
+    <comp ref="Q8">
+      <value>PMV45EN</value>
+      <footprint>oresat-proto-card:SOT23</footprint>
+      <datasheet>https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/20005758A.pdf</datasheet>
+      <fields>
+        <field name="Description">N-Channel 30V 4.1A (Ta) 510mW (Ta), 5W (Tc) TO-236AB</field>
+        <field name="Generic">N</field>
+        <field name="Manufacturer_Name">Microchip Technology</field>
+        <field name="Manufacturer_Part_Number">PMV45EN2R</field>
+      </fields>
+      <libsource lib="oresat-proto-card-eagle-import" part="PMV45EN" description=""/>
+      <property name="Value" value=""/>
+      <property name="Manufacturer_Part_Number" value="PMV45EN2R"/>
+      <property name="Description" value="N-Channel 30V 4.1A (Ta) 510mW (Ta), 5W (Tc) TO-236AB"/>
+      <property name="Manufacturer_Name" value="Microchip Technology"/>
+      <property name="Generic" value="N"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>6126e852-0601-4ea4-b182-3c4dd9b10f6a</tstamps>
+    </comp>
+    <comp ref="Q9">
+      <value>PMV45EN</value>
+      <footprint>oresat-proto-card:SOT23</footprint>
+      <datasheet>https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/20005758A.pdf</datasheet>
+      <fields>
+        <field name="Description">N-Channel 30V 4.1A (Ta) 510mW (Ta), 5W (Tc) TO-236AB</field>
+        <field name="Generic">N</field>
+        <field name="Manufacturer_Name">Microchip Technology</field>
+        <field name="Manufacturer_Part_Number">PMV45EN2R</field>
+      </fields>
+      <libsource lib="oresat-proto-card-eagle-import" part="PMV45EN" description=""/>
+      <property name="Value" value=""/>
+      <property name="Manufacturer_Part_Number" value="PMV45EN2R"/>
+      <property name="Manufacturer_Name" value="Microchip Technology"/>
+      <property name="Description" value="N-Channel 30V 4.1A (Ta) 510mW (Ta), 5W (Tc) TO-236AB"/>
+      <property name="Generic" value="N"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>8add9640-64be-45e0-80da-7ac70553f45b</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>73.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">73.2K 0603</field>
+      </fields>
+      <libsource lib="mainboard" part="R-US_R0603" description=""/>
+      <property name="Description" value="73.2K 0603"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>6adfb886-ff6d-4e73-864f-8c8bc53959ed</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>73.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">73.2K 0603</field>
+      </fields>
+      <libsource lib="mainboard" part="R-US_R0603" description=""/>
+      <property name="Description" value="73.2K 0603"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>665f8f73-6691-469b-b2d7-3583cd7757db</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>2.7k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>5f0f7151-5b57-4aa2-9260-ab4d49abc056</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>22.1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">22.1K 0603</field>
+      </fields>
+      <libsource lib="mainboard" part="R-US_R0603" description=""/>
+      <property name="Description" value="22.1K 0603"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>b51841a6-ef20-4422-8d16-2332f06f3f44</tstamps>
+    </comp>
+    <comp ref="R5">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <fields>
+        <field name="Description">100K 0603</field>
+      </fields>
+      <libsource lib="mainboard" part="R-US_R0603" description=""/>
+      <property name="Description" value="100K 0603"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>c6b79ae3-b1ad-46ef-b4c6-15d6d1b53049</tstamps>
+    </comp>
+    <comp ref="R17">
+      <value>2.7k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>4c69aeea-7449-452e-803b-5e70bb8d362d</tstamps>
+    </comp>
+    <comp ref="R24">
+      <value>10</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>0758ec48-0b87-44c6-a85d-30416ba75c88</tstamps>
+    </comp>
+    <comp ref="R39">
+      <value>NP</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>3af63545-89d4-4eff-99f8-533e6061f7a6</tstamps>
+    </comp>
+    <comp ref="R40">
+      <value>NP</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>3d75df55-46d4-44f4-be8c-db2e5b2703a0</tstamps>
+    </comp>
+    <comp ref="R45">
+      <value>NP</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>faefc63d-3318-4640-901b-b20c62982774</tstamps>
+    </comp>
+    <comp ref="R46">
+      <value>NP</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>f43d2adc-d733-4824-b4b3-1e27386669f6</tstamps>
+    </comp>
+    <comp ref="R52">
+      <value>NP</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>1251d5a2-19fe-4b1e-87f2-90f7186a5dc9</tstamps>
+    </comp>
+    <comp ref="R53">
+      <value>NP</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>f61c0956-844d-4f1d-9a17-a5fabca30c9d</tstamps>
+    </comp>
+    <comp ref="R54">
+      <value>NP</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>5cc6ec89-0a97-4bfe-80f0-0b331ec8291c</tstamps>
+    </comp>
+    <comp ref="R55">
+      <value>NP</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>1249c8e7-df5e-43d5-80cf-416cba109d93</tstamps>
+    </comp>
+    <comp ref="R56">
+      <value>NP</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>1251e17f-2dab-4de0-a221-7d94d73c15d1</tstamps>
+    </comp>
+    <comp ref="R57">
+      <value>NP</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>b0044ce1-72ba-4c9b-a144-3f46be74e45b</tstamps>
+    </comp>
+    <comp ref="R58">
+      <value>NP</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>daeb50bb-d4e6-4801-a9d2-62c6168b8157</tstamps>
+    </comp>
+    <comp ref="R59">
+      <value>NP</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>0ad2b41a-3e1f-4874-b95a-b4e0ea2f6390</tstamps>
+    </comp>
+    <comp ref="R60">
+      <value>100</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>cc8a71d1-8a99-4e32-ada6-868a3b3238ea</tstamps>
+    </comp>
+    <comp ref="R61">
+      <value>10k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>12547661-d510-4927-8698-33cdadf21c0d</tstamps>
+    </comp>
+    <comp ref="R62">
+      <value>10k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>a19d9a99-3c0f-4c1e-85b2-efb691cc130c</tstamps>
+    </comp>
+    <comp ref="R63">
+      <value>10k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>d633c6e8-006f-4434-91fc-8bd6578c49b0</tstamps>
+    </comp>
+    <comp ref="R64">
+      <value>100m</value>
+      <footprint>oresat-proto-card:R1206</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_R1206" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>e7132cda-057e-4e06-8b34-3c06043c3570</tstamps>
+    </comp>
+    <comp ref="R65">
+      <value>10k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>f1814d4c-7502-45d1-ba00-71438be4d2b1</tstamps>
+    </comp>
+    <comp ref="R66">
+      <value>0</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>cc6172f3-51c8-455a-95ee-46c02d3a075b</tstamps>
+    </comp>
+    <comp ref="R67">
+      <value>NP</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>cd15fb56-87da-46e0-870d-0696039dc2ee</tstamps>
+    </comp>
+    <comp ref="R68">
+      <value>0</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>106275db-ff2a-44b1-bc65-3da5c2fc4ee9</tstamps>
+    </comp>
+    <comp ref="R69">
+      <value>NP</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>4098f9ef-02d8-40a9-8df8-7b6e092da817</tstamps>
+    </comp>
+    <comp ref="R70">
+      <value>10k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>2c995e79-20f8-4c6c-961b-0e0c7e5bd266</tstamps>
+    </comp>
+    <comp ref="R71">
+      <value>100k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>c413d277-de3b-435e-9595-d9dd0e902a55</tstamps>
+    </comp>
+    <comp ref="R72">
+      <value>10K</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>538eda91-adeb-4fa3-8600-56db8a7d8e20</tstamps>
+    </comp>
+    <comp ref="R73">
+      <value>10k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>81917cb3-4c55-405c-87fe-29bfc8e9dff7</tstamps>
+    </comp>
+    <comp ref="R76">
+      <value>2.7k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>f0f677a4-3151-41cb-8168-3a2a5d122ae9</tstamps>
+    </comp>
+    <comp ref="R77">
+      <value>665k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>a6d6816a-42ec-45b9-92f5-65bae89a967d</tstamps>
+    </comp>
+    <comp ref="R78">
+      <value>330k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>ea1a56ff-e9e9-4041-9f14-d7d88f0bf57c</tstamps>
+    </comp>
+    <comp ref="R79">
+      <value>1M</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>91b033cb-d4a6-477f-999c-a05f4bb07ae8</tstamps>
+    </comp>
+    <comp ref="R80">
+      <value>100</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>e4b1aae9-2e97-4f7a-ad2a-f8e08f6b30f1</tstamps>
+    </comp>
+    <comp ref="R81">
+      <value>665k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>e934c614-d74f-493b-ae5c-0c450069deee</tstamps>
+    </comp>
+    <comp ref="R82">
+      <value>330k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>af2e3cb5-4e49-493e-ac8b-3432a68e23ec</tstamps>
+    </comp>
+    <comp ref="R83">
+      <value>1M</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>34de1178-774f-4d03-bebb-9602fd21b15f</tstamps>
+    </comp>
+    <comp ref="TP2">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>d0180bfa-d478-4ecf-9f6d-072e571445c6</tstamps>
+    </comp>
+    <comp ref="TP4">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>393a7b2e-5b9f-4545-86de-da418c5bbce9</tstamps>
+    </comp>
+    <comp ref="TP15">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>baeffe7e-1586-4fba-8e96-3fb30e12991d</tstamps>
+    </comp>
+    <comp ref="TP21">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>3405c435-5abe-4de3-9c86-b5ee7524092d</tstamps>
+    </comp>
+    <comp ref="TP23">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>7806184a-ea7c-453a-8989-a203c3126fed</tstamps>
+    </comp>
+    <comp ref="TP24">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>c8247781-163a-4bf2-b72a-9ef23bc4ebc9</tstamps>
+    </comp>
+    <comp ref="TP31">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>8a97c0c1-c3f9-4a4b-9df7-9cbea774eef3</tstamps>
+    </comp>
+    <comp ref="TP32">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>ea311fca-d20a-4f20-9892-6a4dbe6f4b5a</tstamps>
+    </comp>
+    <comp ref="TP33">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>7216c8db-f501-4775-b339-317aeb4b7351</tstamps>
+    </comp>
+    <comp ref="TP34">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>eb68bcb3-e223-4eee-a2a1-e706218e85dc</tstamps>
+    </comp>
+    <comp ref="TP35">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>90452114-0b75-468a-bee1-ec84789c7c08</tstamps>
+    </comp>
+    <comp ref="TP36">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>bcaa2caf-f4fd-4dd1-aaa9-cb3158b313e9</tstamps>
+    </comp>
+    <comp ref="TP37">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>e91ef23d-1fe5-4fb1-9ef9-b48d7993854f</tstamps>
+    </comp>
+    <comp ref="TP38">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>8fa16f5a-fa0f-4e98-9794-bd3cdc753ce1</tstamps>
+    </comp>
+    <comp ref="TP39">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>530f0454-9454-4118-8272-64938d5f527f</tstamps>
+    </comp>
+    <comp ref="TP40">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>821b9fd9-fce0-4f54-80ad-17f2efe71202</tstamps>
+    </comp>
+    <comp ref="TP41">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>6f737de4-9ef3-4cae-a59f-7af2a8c39ddb</tstamps>
+    </comp>
+    <comp ref="TP42">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>59ed8ec7-75a8-4a98-8b85-666e53c1452a</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>MAX7310ATE</value>
+      <footprint>oresat-proto-card:QFN65P400X400X80-17T210</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX7310.pdf</datasheet>
+      <fields>
+        <field name="Generic">N</field>
+        <field name="Manufacturer_Name">Maxim</field>
+        <field name="Manufacturer_Part_Number">MAX7310ATE+</field>
+      </fields>
+      <libsource lib="oresat-proto-card-eagle-import" part="MAX7310" description=""/>
+      <property name="Value" value=""/>
+      <property name="Manufacturer_Part_Number" value="MAX7310ATE+"/>
+      <property name="Manufacturer_Name" value="Maxim"/>
+      <property name="Generic" value="N"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>ed434928-d1c8-439a-bff2-31587f83fbdd</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>TPS54226PWPRPWP14_2P31X2P46-L</value>
+      <footprint>MaxLib:PWP14_2P31X2P46-L</footprint>
+      <datasheet>https://www.ti.com/lit/gpn/tps54226</datasheet>
+      <fields>
+        <field name="Description">3.3V Switching Regulator</field>
+        <field name="Flight">TPS54226PWPR</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">TPS54226PWPR</field>
+        <field name="Proto">TPS54226PWPR</field>
+      </fields>
+      <libsource lib="mainboard" part="TPS54226PWPRPWP14_2P31X2P46-L" description=""/>
+      <property name="Description" value="3.3V Switching Regulator"/>
+      <property name="Flight" value="TPS54226PWPR"/>
+      <property name="Manufacturer_Name" value="Texas Instruments"/>
+      <property name="Manufacturer_Part_Number" value="TPS54226PWPR"/>
+      <property name="Proto" value="TPS54226PWPR"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>a1c513ef-9ec7-4f59-bdbb-c8bc12bd53ec</tstamps>
+    </comp>
+    <comp ref="U6">
+      <value>MAX4211FETE+</value>
+      <footprint>oresat-proto-card:QFN65P400X400X80-17T210</footprint>
+      <datasheet>https://datasheets.maximintegrated.com/en/ds/MAX4210-MAX4211.pdf</datasheet>
+      <fields>
+        <field name="Description">Current Monitor Regulator High-Side 16-TQFN</field>
+        <field name="Generic">N</field>
+        <field name="Manufacturer_Name">Maxim</field>
+        <field name="Manufacturer_Part_Number">MAX4211FETE+</field>
+      </fields>
+      <libsource lib="oresat-proto-card-eagle-import" part="MAX4211" description=""/>
+      <property name="Value" value=""/>
+      <property name="Manufacturer_Part_Number" value="MAX4211FETE+"/>
+      <property name="Manufacturer_Name" value="Maxim"/>
+      <property name="Generic" value="N"/>
+      <property name="Description" value="Current Monitor Regulator High-Side 16-TQFN"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>d0f90bd6-e5d1-4fd5-bf2a-b984866568ac</tstamps>
+    </comp>
+    <comp ref="U11">
+      <value>MIC842LYC5</value>
+      <footprint>oresat-proto-card:SC70-5</footprint>
+      <datasheet>https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/20005758A.pdf</datasheet>
+      <fields>
+        <field name="Description">Comparator with Voltage Reference Push-Pull SC-70-5</field>
+        <field name="Generic">N</field>
+        <field name="Manufacturer_Name">Microchip Technology</field>
+        <field name="Manufacturer_Part_Number">MIC842LYC5-TR</field>
+      </fields>
+      <libsource lib="oresat-proto-card-eagle-import" part="MIC842LYC5" description=""/>
+      <property name="Manufacturer_Part_Number" value="MIC842LYC5-TR"/>
+      <property name="Manufacturer_Name" value="Microchip Technology"/>
+      <property name="Description" value="Comparator with Voltage Reference Push-Pull SC-70-5"/>
+      <property name="Generic" value="N"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>ab99b396-8fb3-447c-8168-1ec486345a28</tstamps>
+    </comp>
+    <comp ref="U12">
+      <value>MIC842LYC5</value>
+      <footprint>oresat-proto-card:SC70-5</footprint>
+      <datasheet>https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/20005758A.pdf</datasheet>
+      <fields>
+        <field name="Description">Comparator with Voltage Reference Push-Pull SC-70-5</field>
+        <field name="Generic">N</field>
+        <field name="Manufactuer_Part_Number">MIC842LYC5-TR</field>
+        <field name="Manufacturer_Name">Microchip Technology</field>
+      </fields>
+      <libsource lib="oresat-proto-card-eagle-import" part="MIC842LYC5" description=""/>
+      <property name="Manufactuer_Part_Number" value="MIC842LYC5-TR"/>
+      <property name="Manufacturer_Name" value="Microchip Technology"/>
+      <property name="Description" value="Comparator with Voltage Reference Push-Pull SC-70-5"/>
+      <property name="Generic" value="N"/>
+      <property name="Sheetname" value="Power"/>
+      <property name="Sheetfile" value="Power.kicad_sch"/>
+      <sheetpath names="/Power/" tstamps="/65906ae1-caa6-4da6-81a5-91bc39aac43c/"/>
+      <tstamps>adbf5395-80f7-451e-a555-2c02c6e094eb</tstamps>
+    </comp>
+    <comp ref="C13">
+      <value>100n</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="C-EU0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>6a7a562e-452f-4155-b530-1c392c28e204</tstamps>
+    </comp>
+    <comp ref="C14">
+      <value>100n</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="C-EU0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>5b928d09-4aea-40e7-9ab4-1405a6e7942d</tstamps>
+    </comp>
+    <comp ref="C15">
+      <value>20p</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="C-EU0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>2927a40d-6450-4316-a9fe-531231d8f874</tstamps>
+    </comp>
+    <comp ref="C18">
+      <value>20p</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="C-EU0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>a6cb588b-5541-4630-8706-c09fe12b7afa</tstamps>
+    </comp>
+    <comp ref="C19">
+      <value>100n</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="C-EU0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>ad9044d2-91d8-4a8d-967e-cd759aeaf743</tstamps>
+    </comp>
+    <comp ref="C20">
+      <value>100n</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="C-EU0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>bd8b3add-2ecb-400b-b79c-c192560c54b8</tstamps>
+    </comp>
+    <comp ref="C21">
+      <value>100n</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="C-EU0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>b8f259ce-c431-4936-a09a-847f84be0caf</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>AMBER</value>
+      <footprint>oresat-proto-card:LED-0603</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="LED-GREEN0603" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>2b58be93-2c0b-4cd9-80c8-84e6271a8a40</tstamps>
+    </comp>
+    <comp ref="J7">
+      <value>ORESAT-DEBUG-CONNECTOR-ALL</value>
+      <footprint>oresat-proto-card:TE_2-1734592-0</footprint>
+      <fields>
+        <field name="Description">20 Position FPC Connector Contacts, Bottom 0.020" (0.50mm) Surface Mount, Right Angle</field>
+        <field name="Manufacturer_Name">TE Connectivity AMP Connectors</field>
+        <field name="Manufacturer_Part_Number">2-1734592-0</field>
+      </fields>
+      <libsource lib="oresat-proto-card-eagle-import" part="ORESAT-DEBUG-CONNECTOR-ALL" description=""/>
+      <property name="Manufacturer_Part_Number" value="2-1734592-0"/>
+      <property name="Manufacturer_Name" value="TE Connectivity AMP Connectors"/>
+      <property name="Description" value="20 Position FPC Connector Contacts, Bottom 0.020&quot; (0.50mm) Surface Mount, Right Angle"/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>a0d82e8e-58b8-4dfb-940e-577568ec294d</tstamps>
+    </comp>
+    <comp ref="JP8">
+      <value>PINHD-2X10</value>
+      <footprint>oresat-proto-card:2X10</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="PINHD-2X10" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>7e3c33bb-c22b-45e9-8bad-a1554624e819</tstamps>
+    </comp>
+    <comp ref="JP11">
+      <value>PINHD-2X10</value>
+      <footprint>oresat-proto-card:2X10</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="PINHD-2X10" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>ff1698fe-591e-4e6b-8dc9-ae4b7c8a739e</tstamps>
+    </comp>
+    <comp ref="R47">
+      <value>10k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>e08d880e-88ad-407b-a755-51be419b6039</tstamps>
+    </comp>
+    <comp ref="R48">
+      <value>2.7k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>4f293c06-278d-4189-9960-17dec2fcdd28</tstamps>
+    </comp>
+    <comp ref="R49">
+      <value>10k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>4823a46f-f02a-4569-bca2-2879266bd271</tstamps>
+    </comp>
+    <comp ref="R50">
+      <value>4.7k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>7e8f86b3-b80a-4cc5-ae06-d9f2ef6d3787</tstamps>
+    </comp>
+    <comp ref="R51">
+      <value>4.7k</value>
+      <footprint>oresat-proto-card:.0603-C-NOSILK</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK" description=""/>
+      <property name="Value" value=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>61a104d7-3abc-467f-a6cd-0e0d10fc56cf</tstamps>
+    </comp>
+    <comp ref="TP25">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>9860531e-c71c-42bf-89ce-f6bcd0a56b5d</tstamps>
+    </comp>
+    <comp ref="TP26">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>65fe7a2f-9ff8-4f22-b77d-b820af323620</tstamps>
+    </comp>
+    <comp ref="TP27">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>c0161b1b-8cae-4f33-bac2-49d0b03861d1</tstamps>
+    </comp>
+    <comp ref="TP28">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>15b36b89-338f-4e06-8089-15e836d9c878</tstamps>
+    </comp>
+    <comp ref="TP29">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>3f9edc6b-e571-480a-9aad-b2e15a39589f</tstamps>
+    </comp>
+    <comp ref="TP30">
+      <value>TEST-POINT-LARGE-SQUARE</value>
+      <footprint>oresat-proto-card:1X01</footprint>
+      <libsource lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE" description=""/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>f094281a-28f9-4f4d-8af7-826af4081939</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>TCAN330</value>
+      <footprint>oresat-proto-card:SOT23-8_TI-DCN</footprint>
+      <fields>
+        <field name="Description">Transceiver CANbus SOT-23-8</field>
+        <field name="Generic">N</field>
+        <field name="Manufacturer_Part_Number">TCAN330GDCNT</field>
+      </fields>
+      <libsource lib="oresat-proto-card-eagle-import" part="TCAN330" description=""/>
+      <property name="Value" value=""/>
+      <property name="Manufacturer_Part_Number" value="TCAN330GDCNT"/>
+      <property name="Description" value="Transceiver CANbus SOT-23-8"/>
+      <property name="Generic" value="N"/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>b9487fc2-0cb9-472a-b2c6-dc42bbebff59</tstamps>
+    </comp>
+    <comp ref="U7">
+      <value>STM32F091C</value>
+      <footprint>oresat-proto-card:STM32F091C</footprint>
+      <datasheet>https://www.st.com/content/ccc/resource/technical/document/datasheet/95/3c/2e/5b/21/09/45/a6/DM00115237.pdf/files/DM00115237.pdf/jcr:content/translations/en.DM00115237.pdf</datasheet>
+      <fields>
+        <field name="Generic">N</field>
+        <field name="Manufacturer_Name">ST Microelectronics</field>
+        <field name="Manufacturer_Part_Number">STM32F091CCT6</field>
+      </fields>
+      <libsource lib="oresat-proto-card-eagle-import" part="STM32F091C" description=""/>
+      <property name="Value" value=""/>
+      <property name="Generic" value="N"/>
+      <property name="Manufacturer_Part_Number" value="STM32F091CCT6"/>
+      <property name="Manufacturer_Name" value="ST Microelectronics"/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>df1f3901-60f1-427e-88d8-b4e1453bd82e</tstamps>
+    </comp>
+    <comp ref="X2">
+      <value>16MHZ-2.5x2mm</value>
+      <footprint>oresat-proto-card:CRYSTAL_2.5X2</footprint>
+      <fields>
+        <field name="Description">16MHz ±30ppm Crystal 10pF 80 Ohms</field>
+        <field name="Generic">Y</field>
+        <field name="Manufacturer_Part_Number">ECS-160-10-36Q-ES-TR</field>
+      </fields>
+      <libsource lib="oresat-proto-card-eagle-import" part="CRYSTAL-WITH-GND" description=""/>
+      <property name="Value" value=""/>
+      <property name="Manufacturer_Part_Number" value="ECS-160-10-36Q-ES-TR"/>
+      <property name="Description" value="16MHz ±30ppm Crystal 10pF 80 Ohms"/>
+      <property name="Generic" value="Y"/>
+      <property name="Sheetname" value="Microcontroller"/>
+      <property name="Sheetfile" value="Microcontroller.kicad_sch"/>
+      <sheetpath names="/Microcontroller/" tstamps="/9b37545b-383a-4e53-bd7e-0dde7bc861e7/"/>
+      <tstamps>b352cd0b-e548-40f0-b32c-53494c4d299a</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Device" part="L">
+      <description>Inductor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mainboard" part="1.0UF-0603-16V-10%">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">1.0UF-0603-16V-10%</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mainboard" part="22UF-0805-6.3V-20%">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">22UF-0805-6.3V-20%</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mainboard" part="22UF-1210-16V-20%">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">22UF-1210-16V-20%</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mainboard" part="3.3NF-0603-100V-10%">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">3.3NF-0603-100V-10%</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mainboard" part="R-US_R0603">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-US_R0603</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="mainboard" part="TPS54226PWPRPWP14_2P31X2P46-L">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TPS54226PWPRPWP14_2P31X2P46-L</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VO" type="output"/>
+        <pin num="2" name="VFB" type="input"/>
+        <pin num="3" name="VREG5" type="output"/>
+        <pin num="4" name="SS" type="passive"/>
+        <pin num="5" name="GND" type="power_in"/>
+        <pin num="6" name="PG" type="output"/>
+        <pin num="7" name="EN" type="input"/>
+        <pin num="8" name="PGND1" type="power_in"/>
+        <pin num="9" name="PGND2" type="power_in"/>
+        <pin num="10" name="SW1" type="passive"/>
+        <pin num="11" name="SW2" type="passive"/>
+        <pin num="12" name="VBST" type="input"/>
+        <pin num="13" name="VIN" type="input"/>
+        <pin num="14" name="VCC" type="input"/>
+        <pin num="15" name="EPAD" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="C-EU0603-C-NOSILK">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-EU0603-C-NOSILK</field>
+        <field name="Footprint">oresat-proto-card:.0603-C-NOSILK</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="C-EU0805-B-NOSILK">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-EU0805-B-NOSILK</field>
+        <field name="Footprint">oresat-proto-card:.0805-B-NOSILK</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="CRYSTAL-WITH-GND">
+      <fields>
+        <field name="Reference">X</field>
+        <field name="Value">CRYSTAL-WITH-GND</field>
+        <field name="Footprint">oresat-proto-card:CRYSTAL_2.5X2</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="SHIELD" type="power_in"/>
+        <pin num="3" name="2" type="passive"/>
+        <pin num="4" name="SHIELD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="J-SAMTEC-TFM-110-X1-XXX-D-RA">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">J-SAMTEC-TFM-110-X1-XXX-D-RA</field>
+        <field name="Footprint">oresat-proto-card:J-SAMTEC-TFM-110-X1-XXX-D-RA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+        <pin num="15" name="15" type="passive"/>
+        <pin num="16" name="16" type="passive"/>
+        <pin num="17" name="17" type="passive"/>
+        <pin num="18" name="18" type="passive"/>
+        <pin num="19" name="19" type="passive"/>
+        <pin num="20" name="20" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="J-SAMTEC-TFM-120-X1-XXX-D-RA">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">J-SAMTEC-TFM-120-X1-XXX-D-RA</field>
+        <field name="Footprint">oresat-proto-card:J-SAMTEC-TFM-120-X1-XXX-D-RA</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+        <pin num="15" name="15" type="passive"/>
+        <pin num="16" name="16" type="passive"/>
+        <pin num="17" name="17" type="passive"/>
+        <pin num="18" name="18" type="passive"/>
+        <pin num="19" name="19" type="passive"/>
+        <pin num="20" name="20" type="passive"/>
+        <pin num="21" name="21" type="passive"/>
+        <pin num="22" name="22" type="passive"/>
+        <pin num="23" name="23" type="passive"/>
+        <pin num="24" name="24" type="passive"/>
+        <pin num="25" name="25" type="passive"/>
+        <pin num="26" name="26" type="passive"/>
+        <pin num="27" name="27" type="passive"/>
+        <pin num="28" name="28" type="passive"/>
+        <pin num="29" name="29" type="passive"/>
+        <pin num="30" name="30" type="passive"/>
+        <pin num="31" name="31" type="passive"/>
+        <pin num="32" name="32" type="passive"/>
+        <pin num="33" name="33" type="passive"/>
+        <pin num="34" name="34" type="passive"/>
+        <pin num="35" name="35" type="passive"/>
+        <pin num="36" name="36" type="passive"/>
+        <pin num="37" name="37" type="passive"/>
+        <pin num="38" name="38" type="passive"/>
+        <pin num="39" name="39" type="passive"/>
+        <pin num="40" name="40" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="LED-GREEN0603">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED-GREEN0603</field>
+        <field name="Footprint">oresat-proto-card:LED-0603</field>
+      </fields>
+      <pins>
+        <pin num="A" name="A" type="passive"/>
+        <pin num="C" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="MAX4211">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX4211</field>
+        <field name="Footprint">oresat-proto-card:QFN65P400X400X80-17T210</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="power_in"/>
+        <pin num="3" name="LE" type="input"/>
+        <pin num="4" name="COUT1" type="open_collector"/>
+        <pin num="5" name="INHIBIT" type="input"/>
+        <pin num="6" name="COUT2" type="open_collector"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="CIN2+" type="input"/>
+        <pin num="9" name="CIN2-" type="input"/>
+        <pin num="10" name="CIN1+" type="input"/>
+        <pin num="11" name="CIN1-" type="input"/>
+        <pin num="12" name="REF" type="output"/>
+        <pin num="13" name="POUT" type="output"/>
+        <pin num="14" name="IOUT" type="output"/>
+        <pin num="15" name="RS-" type="passive"/>
+        <pin num="16" name="RS+" type="passive"/>
+        <pin num="EPAD" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="MAX7310">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MAX7310</field>
+        <field name="Footprint">oresat-proto-card:QFN65P400X400X80-17T210</field>
+      </fields>
+      <pins>
+        <pin num="1" name="AD0" type="input"/>
+        <pin num="2" name="AD1" type="input"/>
+        <pin num="3" name="AD2" type="input"/>
+        <pin num="4" name="IO0" type="bidirectional"/>
+        <pin num="5" name="IO1" type="bidirectional"/>
+        <pin num="6" name="GND" type="power_in"/>
+        <pin num="7" name="IO2" type="bidirectional"/>
+        <pin num="8" name="IO3" type="bidirectional"/>
+        <pin num="9" name="IO4" type="bidirectional"/>
+        <pin num="10" name="IO5" type="bidirectional"/>
+        <pin num="11" name="IO6" type="bidirectional"/>
+        <pin num="12" name="IO7" type="bidirectional"/>
+        <pin num="13" name="~{RESET}" type="input"/>
+        <pin num="14" name="V+" type="power_in"/>
+        <pin num="15" name="SCL" type="input"/>
+        <pin num="16" name="SDA" type="bidirectional"/>
+        <pin num="EPAD" name="GND" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="MIC842LYC5">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">MIC842LYC5</field>
+        <field name="Footprint">oresat-proto-card:SC70-5</field>
+      </fields>
+      <pins>
+        <pin num="1" name="INP" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="4" name="OUT" type="output"/>
+        <pin num="5" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="MOSFET-PCH-SOT23-6">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">MOSFET-PCH-SOT23-6</field>
+        <field name="Footprint">oresat-proto-card:SOT23-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="G" type="passive"/>
+        <pin num="4" name="D" type="passive"/>
+        <pin num="5" name="S" type="passive"/>
+        <pin num="6" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="ORESAT-DEBUG-CONNECTOR-ALL">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">ORESAT-DEBUG-CONNECTOR-ALL</field>
+        <field name="Footprint">oresat-proto-card:TE_2-1734592-0</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUSP" type="passive"/>
+        <pin num="2" name="VBUSP" type="passive"/>
+        <pin num="3" name="GND" type="passive"/>
+        <pin num="4" name="DEVICE-D+" type="passive"/>
+        <pin num="5" name="DEVICE-D-" type="passive"/>
+        <pin num="6" name="GND" type="passive"/>
+        <pin num="7" name="HOST-D+" type="passive"/>
+        <pin num="8" name="HOST-D-" type="passive"/>
+        <pin num="9" name="GND" type="passive"/>
+        <pin num="10" name="NRST" type="passive"/>
+        <pin num="11" name="VTARGET" type="passive"/>
+        <pin num="12" name="CARD-RX" type="passive"/>
+        <pin num="13" name="CARD-TX" type="passive"/>
+        <pin num="14" name="SWDIO" type="passive"/>
+        <pin num="15" name="SWCLK" type="passive"/>
+        <pin num="16" name="SWO" type="passive"/>
+        <pin num="17" name="DEBUG-0" type="passive"/>
+        <pin num="18" name="DEBUG-1" type="passive"/>
+        <pin num="19" name="DEBUG-2" type="passive"/>
+        <pin num="20" name="DEBUG-3" type="passive"/>
+        <pin num="PAD1" name="PAD" type="bidirectional"/>
+        <pin num="PAD2" name="PAD" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="PINHD-1X10">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">PINHD-1X10</field>
+        <field name="Footprint">oresat-proto-card:1X10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="PINHD-2X10">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">PINHD-2X10</field>
+        <field name="Footprint">oresat-proto-card:2X10</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+        <pin num="15" name="15" type="passive"/>
+        <pin num="16" name="16" type="passive"/>
+        <pin num="17" name="17" type="passive"/>
+        <pin num="18" name="18" type="passive"/>
+        <pin num="19" name="19" type="passive"/>
+        <pin num="20" name="20" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="PINHD-2X5">
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">PINHD-2X5</field>
+        <field name="Footprint">oresat-proto-card:2X05</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="PMV45EN">
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">PMV45EN</field>
+        <field name="Footprint">oresat-proto-card:SOT23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="passive"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="R-US_0603-C-NOSILK">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-US_0603-C-NOSILK</field>
+        <field name="Footprint">oresat-proto-card:.0603-C-NOSILK</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="R-US_R1206">
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R-US_R1206</field>
+        <field name="Footprint">oresat-proto-card:R1206</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="STAND-OFFTIGHT">
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">STAND-OFFTIGHT</field>
+        <field name="Footprint">oresat-proto-card:STAND-OFF-TIGHT</field>
+      </fields>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="STM32F091C">
+      <fields>
+        <field name="Value">STM32F091C</field>
+        <field name="Footprint">oresat-proto-card:STM32F091C</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBAT" type="power_in"/>
+        <pin num="2" name="PC13" type="bidirectional"/>
+        <pin num="3" name="PC14-OSC32_IN" type="bidirectional"/>
+        <pin num="4" name="PC15-OSC32_OUT" type="bidirectional"/>
+        <pin num="5" name="PF0-OSC_IN" type="bidirectional"/>
+        <pin num="6" name="PF1-OSC_OUT" type="bidirectional"/>
+        <pin num="7" name="NRST" type="bidirectional"/>
+        <pin num="8" name="VSSA" type="power_in"/>
+        <pin num="9" name="VDDA" type="power_in"/>
+        <pin num="10" name="PA0" type="bidirectional"/>
+        <pin num="11" name="PA1" type="bidirectional"/>
+        <pin num="12" name="PA2" type="bidirectional"/>
+        <pin num="13" name="PA3" type="bidirectional"/>
+        <pin num="14" name="PA4" type="bidirectional"/>
+        <pin num="15" name="PA5" type="bidirectional"/>
+        <pin num="16" name="PA6" type="bidirectional"/>
+        <pin num="17" name="PA7" type="bidirectional"/>
+        <pin num="18" name="PB0" type="bidirectional"/>
+        <pin num="19" name="PB1" type="bidirectional"/>
+        <pin num="20" name="PB2" type="bidirectional"/>
+        <pin num="21" name="PB10" type="bidirectional"/>
+        <pin num="22" name="PB11" type="bidirectional"/>
+        <pin num="23" name="VSS" type="power_in"/>
+        <pin num="24" name="VDD" type="power_in"/>
+        <pin num="25" name="PB12" type="bidirectional"/>
+        <pin num="26" name="PB13" type="bidirectional"/>
+        <pin num="27" name="PB14" type="bidirectional"/>
+        <pin num="28" name="PB15" type="bidirectional"/>
+        <pin num="29" name="PA8" type="bidirectional"/>
+        <pin num="30" name="PA9" type="bidirectional"/>
+        <pin num="31" name="PA10" type="bidirectional"/>
+        <pin num="32" name="PA11" type="bidirectional"/>
+        <pin num="33" name="PA12" type="bidirectional"/>
+        <pin num="34" name="PA13-SWDIO" type="bidirectional"/>
+        <pin num="35" name="VSS" type="power_in"/>
+        <pin num="36" name="VDDIO2" type="power_in"/>
+        <pin num="37" name="PA14-SWCLK" type="bidirectional"/>
+        <pin num="38" name="PA15" type="bidirectional"/>
+        <pin num="39" name="PB3" type="bidirectional"/>
+        <pin num="40" name="PB4" type="bidirectional"/>
+        <pin num="41" name="PB5" type="bidirectional"/>
+        <pin num="42" name="PB6" type="bidirectional"/>
+        <pin num="43" name="PB7" type="bidirectional"/>
+        <pin num="44" name="PF11-BOOT0" type="bidirectional"/>
+        <pin num="45" name="PB8" type="bidirectional"/>
+        <pin num="46" name="PB9" type="bidirectional"/>
+        <pin num="47" name="VSS" type="power_in"/>
+        <pin num="48" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="TCAN330">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">TCAN330</field>
+        <field name="Footprint">oresat-proto-card:SOT23-8_TI-DCN</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TXD" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VCC" type="power_in"/>
+        <pin num="4" name="RXD" type="output"/>
+        <pin num="5" name="SHDN" type="input"/>
+        <pin num="6" name="CANL" type="bidirectional"/>
+        <pin num="7" name="CANH" type="bidirectional"/>
+        <pin num="8" name="S" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="TEST-POINT-LARGE-SQUARE">
+      <fields>
+        <field name="Reference">TP</field>
+        <field name="Value">TEST-POINT-LARGE-SQUARE</field>
+        <field name="Footprint">oresat-proto-card:1X01</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="oresat-proto-card-eagle-import" part="U.FL2PIN">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">U.FL2PIN</field>
+        <field name="Footprint">oresat-proto-card:U.FL</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="bidirectional"/>
+        <pin num="2" name="GND" type="bidirectional"/>
+        <pin num="FEED" name="SIGNAL" type="bidirectional"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\6.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="oresat-proto-card-eagle-import">
+      <uri>C:\Users\bronc\Documents\PCB Stuff\OreSat_Proto_Rev\OreSat-Proto-Rev/oresat-proto-card-eagle-import.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/Connectors/AUX-1">
+      <node ref="J1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP9" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="2" name="/Connectors/AUX-2">
+      <node ref="J1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J1" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="JP9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="3" name="/Connectors/AUX-3">
+      <node ref="J1" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J1" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="JP9" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="4" name="/Connectors/AUX-4">
+      <node ref="J1" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="J1" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="JP9" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="5" name="/Connectors/AUX-5">
+      <node ref="J1" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="J1" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="JP9" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="6" name="/Connectors/AUX-6">
+      <node ref="J1" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="J1" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="JP9" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="7" name="/Connectors/AUX-7">
+      <node ref="J1" pin="13" pinfunction="13" pintype="passive"/>
+      <node ref="J1" pin="14" pinfunction="14" pintype="passive"/>
+      <node ref="JP9" pin="7" pinfunction="7" pintype="passive"/>
+    </net>
+    <net code="8" name="/Connectors/AUX-8">
+      <node ref="J1" pin="15" pinfunction="15" pintype="passive"/>
+      <node ref="J1" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="JP9" pin="8" pinfunction="8" pintype="passive"/>
+    </net>
+    <net code="9" name="/Connectors/AUX-9">
+      <node ref="J1" pin="17" pinfunction="17" pintype="passive"/>
+      <node ref="J1" pin="18" pinfunction="18" pintype="passive"/>
+      <node ref="JP9" pin="9" pinfunction="9" pintype="passive"/>
+    </net>
+    <net code="10" name="/Connectors/AUX_~{SHUTDOWN}">
+      <node ref="J1" pin="19" pinfunction="19" pintype="passive"/>
+      <node ref="J1" pin="20" pinfunction="20" pintype="passive"/>
+      <node ref="JP9" pin="10" pinfunction="10" pintype="passive"/>
+    </net>
+    <net code="11" name="/Connectors/C3-UART-RX">
+      <node ref="J6" pin="38" pinfunction="38" pintype="passive"/>
+    </net>
+    <net code="12" name="/Connectors/C3-UART-TX">
+      <node ref="J6" pin="37" pinfunction="37" pintype="passive"/>
+    </net>
+    <net code="13" name="/Connectors/CAN1_H">
+      <node ref="J6" pin="33" pinfunction="33" pintype="passive"/>
+      <node ref="J6" pin="34" pinfunction="34" pintype="passive"/>
+      <node ref="JP10" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="JP10" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="14" name="/Connectors/CAN1_L">
+      <node ref="J6" pin="35" pinfunction="35" pintype="passive"/>
+      <node ref="J6" pin="36" pinfunction="36" pintype="passive"/>
+      <node ref="JP10" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="JP10" pin="8" pinfunction="8" pintype="passive"/>
+    </net>
+    <net code="15" name="/Connectors/SPARE1">
+      <node ref="J6" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="J6" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="JP2" pin="5" pinfunction="5" pintype="passive"/>
+    </net>
+    <net code="16" name="/Connectors/SPARE2">
+      <node ref="J6" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="J6" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="JP2" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="17" name="/Connectors/SPARE3">
+      <node ref="J6" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="J6" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="JP2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="18" name="/Connectors/SPARE4">
+      <node ref="J6" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="J6" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="JP2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="19" name="/Connectors/SPARE5">
+      <node ref="J6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="J6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="20" name="/Connectors/~{SD}">
+      <node ref="J6" pin="39" pinfunction="39" pintype="passive"/>
+      <node ref="J6" pin="40" pinfunction="40" pintype="passive"/>
+      <node ref="JP10" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="JP10" pin="9" pinfunction="9" pintype="passive"/>
+    </net>
+    <net code="21" name="/Microcontroller/CAN_RX">
+      <node ref="JP8" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="RXD" pintype="output"/>
+      <node ref="U7" pin="32" pinfunction="PA11" pintype="bidirectional"/>
+    </net>
+    <net code="22" name="/Microcontroller/CAN_SHDN">
+      <node ref="JP8" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="SHDN" pintype="input"/>
+      <node ref="U7" pin="31" pinfunction="PA10" pintype="bidirectional"/>
+    </net>
+    <net code="23" name="/Microcontroller/CAN_TX">
+      <node ref="JP8" pin="14" pinfunction="14" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="TXD" pintype="input"/>
+      <node ref="U7" pin="33" pinfunction="PA12" pintype="bidirectional"/>
+    </net>
+    <net code="24" name="/Microcontroller/NRESET">
+      <node ref="J7" pin="10" pinfunction="NRST" pintype="passive"/>
+      <node ref="JP11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="7" pinfunction="NRST" pintype="bidirectional"/>
+    </net>
+    <net code="25" name="/Microcontroller/PA0">
+      <node ref="JP8" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="R48" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U7" pin="10" pinfunction="PA0" pintype="bidirectional"/>
+    </net>
+    <net code="26" name="/Microcontroller/PA1">
+      <node ref="JP8" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="U7" pin="11" pinfunction="PA1" pintype="bidirectional"/>
+    </net>
+    <net code="27" name="/Microcontroller/PA2{slash}USART2_TX">
+      <node ref="J7" pin="13" pinfunction="CARD-TX" pintype="passive"/>
+      <node ref="JP8" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="U7" pin="12" pinfunction="PA2" pintype="bidirectional"/>
+    </net>
+    <net code="28" name="/Microcontroller/PA3{slash}USART2_RX">
+      <node ref="J7" pin="12" pinfunction="CARD-RX" pintype="passive"/>
+      <node ref="JP8" pin="13" pinfunction="13" pintype="passive"/>
+      <node ref="U7" pin="13" pinfunction="PA3" pintype="bidirectional"/>
+    </net>
+    <net code="29" name="/Microcontroller/PA4">
+      <node ref="JP8" pin="15" pinfunction="15" pintype="passive"/>
+      <node ref="U7" pin="14" pinfunction="PA4" pintype="bidirectional"/>
+    </net>
+    <net code="30" name="/Microcontroller/PA5{slash}SPI1_SCK">
+      <node ref="JP8" pin="17" pinfunction="17" pintype="passive"/>
+      <node ref="U7" pin="15" pinfunction="PA5" pintype="bidirectional"/>
+    </net>
+    <net code="31" name="/Microcontroller/PA6{slash}SPI1_MISO">
+      <node ref="JP8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U7" pin="16" pinfunction="PA6" pintype="bidirectional"/>
+    </net>
+    <net code="32" name="/Microcontroller/PA7{slash}SPI1_MOSI">
+      <node ref="JP8" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="U7" pin="17" pinfunction="PA7" pintype="bidirectional"/>
+    </net>
+    <net code="33" name="/Microcontroller/PA8">
+      <node ref="JP8" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U7" pin="29" pinfunction="PA8" pintype="bidirectional"/>
+    </net>
+    <net code="34" name="/Microcontroller/PA9{slash}CAN_SILENT">
+      <node ref="JP8" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="S" pintype="input"/>
+      <node ref="U7" pin="30" pinfunction="PA9" pintype="bidirectional"/>
+    </net>
+    <net code="35" name="/Microcontroller/PA15">
+      <node ref="JP8" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="U7" pin="38" pinfunction="PA15" pintype="bidirectional"/>
+    </net>
+    <net code="36" name="/Microcontroller/PB0{slash}POUTPROT">
+      <node ref="JP11" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="R49" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U7" pin="18" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="37" name="/Microcontroller/PB1">
+      <node ref="JP11" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="U7" pin="19" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="38" name="/Microcontroller/PB2">
+      <node ref="JP11" pin="13" pinfunction="13" pintype="passive"/>
+      <node ref="U7" pin="20" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="39" name="/Microcontroller/PB3">
+      <node ref="JP11" pin="15" pinfunction="15" pintype="passive"/>
+      <node ref="U7" pin="39" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="40" name="/Microcontroller/PB4">
+      <node ref="JP11" pin="17" pinfunction="17" pintype="passive"/>
+      <node ref="U7" pin="40" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="41" name="/Microcontroller/PB5">
+      <node ref="JP11" pin="19" pinfunction="19" pintype="passive"/>
+      <node ref="U7" pin="41" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="42" name="/Microcontroller/PB8">
+      <node ref="JP11" pin="6" pinfunction="6" pintype="passive"/>
+      <node ref="U7" pin="45" pinfunction="PB8" pintype="bidirectional"/>
+    </net>
+    <net code="43" name="/Microcontroller/PB9">
+      <node ref="JP11" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="U7" pin="46" pinfunction="PB9" pintype="bidirectional"/>
+    </net>
+    <net code="44" name="/Microcontroller/PB10">
+      <node ref="JP11" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="U7" pin="21" pinfunction="PB10" pintype="bidirectional"/>
+    </net>
+    <net code="45" name="/Microcontroller/PB11">
+      <node ref="JP11" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="U7" pin="22" pinfunction="PB11" pintype="bidirectional"/>
+    </net>
+    <net code="46" name="/Microcontroller/PB12">
+      <node ref="JP11" pin="14" pinfunction="14" pintype="passive"/>
+      <node ref="U7" pin="25" pinfunction="PB12" pintype="bidirectional"/>
+    </net>
+    <net code="47" name="/Microcontroller/PB13">
+      <node ref="JP11" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="U7" pin="26" pinfunction="PB13" pintype="bidirectional"/>
+    </net>
+    <net code="48" name="/Microcontroller/PB14">
+      <node ref="JP11" pin="18" pinfunction="18" pintype="passive"/>
+      <node ref="U7" pin="27" pinfunction="PB14" pintype="bidirectional"/>
+    </net>
+    <net code="49" name="/Microcontroller/PB15">
+      <node ref="JP11" pin="20" pinfunction="20" pintype="passive"/>
+      <node ref="U7" pin="28" pinfunction="PB15" pintype="bidirectional"/>
+    </net>
+    <net code="50" name="/Microcontroller/PC13">
+      <node ref="JP8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="2" pinfunction="PC13" pintype="bidirectional"/>
+    </net>
+    <net code="51" name="/Microcontroller/PC14">
+      <node ref="JP8" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U7" pin="3" pinfunction="PC14-OSC32_IN" pintype="bidirectional"/>
+    </net>
+    <net code="52" name="/Microcontroller/PC15">
+      <node ref="JP8" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U7" pin="4" pinfunction="PC15-OSC32_OUT" pintype="bidirectional"/>
+    </net>
+    <net code="53" name="/Microcontroller/SWCLK">
+      <node ref="J7" pin="15" pinfunction="SWCLK" pintype="passive"/>
+      <node ref="JP11" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="U7" pin="37" pinfunction="PA14-SWCLK" pintype="bidirectional"/>
+    </net>
+    <net code="54" name="/Microcontroller/SWDIO">
+      <node ref="J7" pin="14" pinfunction="SWDIO" pintype="passive"/>
+      <node ref="JP11" pin="5" pinfunction="5" pintype="passive"/>
+      <node ref="U7" pin="34" pinfunction="PA13-SWDIO" pintype="bidirectional"/>
+    </net>
+    <net code="55" name="/Power/AD0">
+      <node ref="R39" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R40" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R45" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R46" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="AD0" pintype="input"/>
+    </net>
+    <net code="56" name="/Power/AD1">
+      <node ref="R52" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R53" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R54" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R55" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="2" pinfunction="AD1" pintype="input"/>
+    </net>
+    <net code="57" name="/Power/AD2">
+      <node ref="R56" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R57" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R58" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R59" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="AD2" pintype="input"/>
+    </net>
+    <net code="58" name="/Power/CB-RESET">
+      <node ref="R65" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP23" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="IO4" pintype="bidirectional"/>
+      <node ref="U6" pin="9" pinfunction="CIN2-" pintype="input"/>
+    </net>
+    <net code="59" name="/Power/CB_CTRL">
+      <node ref="Q2" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="Q9" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R70" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP39" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U6" pin="3" pinfunction="LE" pintype="input"/>
+      <node ref="U6" pin="4" pinfunction="COUT1" pintype="open_collector"/>
+      <node ref="U6" pin="6" pinfunction="COUT2" pintype="open_collector"/>
+    </net>
+    <net code="60" name="/Power/ON{slash}~{OFF}">
+      <node ref="C17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Q8" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R63" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R76" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="IO3" pintype="bidirectional"/>
+      <node ref="U6" pin="1" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="61" name="/Power/PEN-SCL-FILT">
+      <node ref="Q1" pin="4" pinfunction="D" pintype="passive"/>
+      <node ref="R40" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R53" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R57" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R82" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP37" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="SCL" pintype="input"/>
+    </net>
+    <net code="62" name="/Power/PEN-SDA-FILT">
+      <node ref="Q1" pin="6" pinfunction="D" pintype="passive"/>
+      <node ref="R46" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R55" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R59" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R78" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP38" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="16" pinfunction="SDA" pintype="bidirectional"/>
+    </net>
+    <net code="63" name="/Power/~{FAULT}">
+      <node ref="Q9" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R73" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP24" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="IO2" pintype="bidirectional"/>
+    </net>
+    <net code="64" name="3.3V">
+      <node ref="C13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C19" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C20" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C21" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J7" pin="11" pinfunction="VTARGET" pintype="passive"/>
+      <node ref="L1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R17" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R50" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R51" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP34" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="1" pinfunction="VO" pintype="output"/>
+      <node ref="U7" pin="1" pinfunction="VBAT" pintype="power_in"/>
+      <node ref="U7" pin="24" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U7" pin="36" pinfunction="VDDIO2" pintype="power_in"/>
+      <node ref="U7" pin="48" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U7" pin="9" pinfunction="VDDA" pintype="power_in"/>
+    </net>
+    <net code="65" name="BOOT0">
+      <node ref="JP11" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="R47" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP25" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="IO5" pintype="bidirectional"/>
+      <node ref="U7" pin="44" pinfunction="PF11-BOOT0" pintype="bidirectional"/>
+    </net>
+    <net code="66" name="CAN2_H">
+      <node ref="J6" pin="17" pinfunction="17" pintype="passive"/>
+      <node ref="J6" pin="18" pinfunction="18" pintype="passive"/>
+      <node ref="JP2" pin="9" pinfunction="9" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="CANH" pintype="bidirectional"/>
+    </net>
+    <net code="67" name="CAN2_L">
+      <node ref="J6" pin="19" pinfunction="19" pintype="passive"/>
+      <node ref="J6" pin="20" pinfunction="20" pintype="passive"/>
+      <node ref="JP2" pin="10" pinfunction="10" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="CANL" pintype="bidirectional"/>
+    </net>
+    <net code="68" name="GND">
+      <node ref="C1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C15" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C17" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C18" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C20" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C22" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C23" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="C9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="D3" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="D5" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="D6" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="D7" pin="C" pinfunction="C" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="J2" pin="2" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="J3" pin="1" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="J3" pin="2" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="J4" pin="1" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="J4" pin="2" pinfunction="GND" pintype="bidirectional"/>
+      <node ref="J6" pin="27" pinfunction="27" pintype="passive"/>
+      <node ref="J6" pin="28" pinfunction="28" pintype="passive"/>
+      <node ref="J6" pin="29" pinfunction="29" pintype="passive"/>
+      <node ref="J6" pin="30" pinfunction="30" pintype="passive"/>
+      <node ref="J6" pin="31" pinfunction="31" pintype="passive"/>
+      <node ref="J6" pin="32" pinfunction="32" pintype="passive"/>
+      <node ref="J7" pin="3" pinfunction="GND" pintype="passive"/>
+      <node ref="J7" pin="6" pinfunction="GND" pintype="passive"/>
+      <node ref="J7" pin="9" pinfunction="GND" pintype="passive"/>
+      <node ref="J7" pin="PAD1" pinfunction="PAD" pintype="bidirectional"/>
+      <node ref="J7" pin="PAD2" pinfunction="PAD" pintype="bidirectional"/>
+      <node ref="JP2" pin="7" pinfunction="7" pintype="passive"/>
+      <node ref="JP2" pin="8" pinfunction="8" pintype="passive"/>
+      <node ref="JP8" pin="19" pinfunction="19" pintype="passive"/>
+      <node ref="Q8" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="Q9" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R45" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R47" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R54" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R58" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R63" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R65" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R67" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R69" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R71" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U11" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U12" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="6" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="EPAD" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="15" pinfunction="EPAD" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="8" pinfunction="PGND1" pintype="power_in"/>
+      <node ref="U3" pin="9" pinfunction="PGND2" pintype="power_in"/>
+      <node ref="U6" pin="7" pinfunction="GND" pintype="power_in"/>
+      <node ref="U6" pin="EPAD" pinfunction="GND" pintype="power_in"/>
+      <node ref="U7" pin="23" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U7" pin="35" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U7" pin="47" pinfunction="VSS" pintype="power_in"/>
+      <node ref="U7" pin="8" pinfunction="VSSA" pintype="power_in"/>
+      <node ref="X2" pin="2" pinfunction="SHIELD" pintype="power_in"/>
+      <node ref="X2" pin="4" pinfunction="SHIELD" pintype="power_in"/>
+    </net>
+    <net code="69" name="Net-(C1-Pad1)">
+      <node ref="C1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="Q7" pin="6" pinfunction="D" pintype="passive"/>
+      <node ref="R64" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U6" pin="16" pinfunction="RS+" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="L1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="SW1" pintype="passive"/>
+      <node ref="U3" pin="11" pinfunction="SW2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(C7-Pad2)">
+      <node ref="C7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="VBST" pintype="input"/>
+    </net>
+    <net code="72" name="Net-(C8-Pad1)">
+      <node ref="C8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R71" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R72" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(C9-Pad1)">
+      <node ref="C9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="SS" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(C10-Pad1)">
+      <node ref="C10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="VREG5" pintype="output"/>
+    </net>
+    <net code="75" name="Net-(C15-Pad1)">
+      <node ref="C15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="6" pinfunction="PF1-OSC_OUT" pintype="bidirectional"/>
+      <node ref="X2" pin="3" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(C18-Pad1)">
+      <node ref="C18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U7" pin="5" pinfunction="PF0-OSC_IN" pintype="bidirectional"/>
+      <node ref="X2" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(C22-Pad1)">
+      <node ref="C22" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R78" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R79" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U12" pin="1" pinfunction="INP" pintype="input"/>
+    </net>
+    <net code="78" name="Net-(C23-Pad1)">
+      <node ref="C23" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R82" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R83" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U11" pin="1" pinfunction="INP" pintype="input"/>
+    </net>
+    <net code="79" name="Net-(D3-PadA)">
+      <node ref="D3" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R3" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(D5-PadA)">
+      <node ref="D5" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R48" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(D6-PadA)">
+      <node ref="D6" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R17" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(D7-PadA)">
+      <node ref="D7" pin="A" pinfunction="A" pintype="passive"/>
+      <node ref="R76" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(J7-Pad16)">
+      <node ref="J7" pin="16" pinfunction="SWO" pintype="passive"/>
+      <node ref="TP30" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(J7-Pad17)">
+      <node ref="J7" pin="17" pinfunction="DEBUG-0" pintype="passive"/>
+      <node ref="TP26" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(J7-Pad18)">
+      <node ref="J7" pin="18" pinfunction="DEBUG-1" pintype="passive"/>
+      <node ref="TP27" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(J7-Pad19)">
+      <node ref="J7" pin="19" pinfunction="DEBUG-2" pintype="passive"/>
+      <node ref="TP28" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(J7-Pad20)">
+      <node ref="J7" pin="20" pinfunction="DEBUG-3" pintype="passive"/>
+      <node ref="TP29" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(Q1-Pad1)">
+      <node ref="Q1" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="R77" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(Q1-Pad2)">
+      <node ref="Q1" pin="2" pinfunction="S" pintype="passive"/>
+      <node ref="R80" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(Q1-Pad3)">
+      <node ref="Q1" pin="3" pinfunction="G" pintype="passive"/>
+      <node ref="R81" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(Q1-Pad5)">
+      <node ref="Q1" pin="5" pinfunction="S" pintype="passive"/>
+      <node ref="R60" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(Q2-Pad5)">
+      <node ref="Q2" pin="5" pinfunction="S" pintype="passive"/>
+      <node ref="R64" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R70" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U6" pin="15" pinfunction="RS-" pintype="passive"/>
+    </net>
+    <net code="93" name="Net-(Q7-Pad1)">
+      <node ref="Q7" pin="1" pinfunction="G" pintype="passive"/>
+      <node ref="Q8" pin="3" pinfunction="D" pintype="passive"/>
+      <node ref="R62" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(R1-Pad2)">
+      <node ref="R1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U3" pin="7" pinfunction="EN" pintype="input"/>
+    </net>
+    <net code="95" name="Net-(R2-Pad1)">
+      <node ref="R2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="VFB" pintype="input"/>
+    </net>
+    <net code="96" name="Net-(R5-Pad1)">
+      <node ref="R5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="PG" pintype="output"/>
+    </net>
+    <net code="97" name="Net-(R61-Pad1)">
+      <node ref="R61" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="~{RESET}" pintype="input"/>
+    </net>
+    <net code="98" name="Net-(R66-Pad1)">
+      <node ref="R66" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R67" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U6" pin="10" pinfunction="CIN1+" pintype="input"/>
+    </net>
+    <net code="99" name="Net-(R66-Pad2)">
+      <node ref="R66" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U6" pin="14" pinfunction="IOUT" pintype="output"/>
+    </net>
+    <net code="100" name="Net-(R68-Pad1)">
+      <node ref="R68" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R69" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U6" pin="11" pinfunction="CIN1-" pintype="input"/>
+    </net>
+    <net code="101" name="Net-(R68-Pad2)">
+      <node ref="R68" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U6" pin="12" pinfunction="REF" pintype="output"/>
+      <node ref="U6" pin="8" pinfunction="CIN2+" pintype="input"/>
+    </net>
+    <net code="102" name="Net-(R72-Pad1)">
+      <node ref="R72" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U6" pin="5" pinfunction="INHIBIT" pintype="input"/>
+    </net>
+    <net code="103" name="Net-(R77-Pad1)">
+      <node ref="R77" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP41" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U12" pin="4" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="104" name="Net-(R81-Pad1)">
+      <node ref="R81" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP42" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U11" pin="4" pinfunction="OUT" pintype="output"/>
+    </net>
+    <net code="105" name="Net-(TP36-Pad1)">
+      <node ref="TP36" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="IO7" pintype="bidirectional"/>
+    </net>
+    <net code="106" name="Net-(TP40-Pad1)">
+      <node ref="TP40" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="IO6" pintype="bidirectional"/>
+    </net>
+    <net code="107" name="OPD_PWR">
+      <node ref="J6" pin="15" pinfunction="15" pintype="passive"/>
+      <node ref="J6" pin="16" pinfunction="16" pintype="passive"/>
+      <node ref="R24" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="108" name="OPD_SCL">
+      <node ref="J6" pin="13" pinfunction="13" pintype="passive"/>
+      <node ref="J6" pin="14" pinfunction="14" pintype="passive"/>
+      <node ref="R80" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="109" name="OPD_SDA">
+      <node ref="J6" pin="11" pinfunction="11" pintype="passive"/>
+      <node ref="J6" pin="12" pinfunction="12" pintype="passive"/>
+      <node ref="R60" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="110" name="PB6{slash}SCL">
+      <node ref="JP11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R50" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="4" pinfunction="IO0" pintype="bidirectional"/>
+      <node ref="U7" pin="42" pinfunction="PB6" pintype="bidirectional"/>
+    </net>
+    <net code="111" name="PB7{slash}SDA">
+      <node ref="JP11" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="R51" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="IO1" pintype="bidirectional"/>
+      <node ref="U7" pin="43" pinfunction="PB7" pintype="bidirectional"/>
+    </net>
+    <net code="112" name="POUT">
+      <node ref="R49" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="TP2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U6" pin="13" pinfunction="POUT" pintype="output"/>
+    </net>
+    <net code="113" name="VBUS">
+      <node ref="J6" pin="21" pinfunction="21" pintype="passive"/>
+      <node ref="J6" pin="22" pinfunction="22" pintype="passive"/>
+      <node ref="J6" pin="23" pinfunction="23" pintype="passive"/>
+      <node ref="J6" pin="24" pinfunction="24" pintype="passive"/>
+      <node ref="J6" pin="25" pinfunction="25" pintype="passive"/>
+      <node ref="J6" pin="26" pinfunction="26" pintype="passive"/>
+      <node ref="JP10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="JP10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="JP10" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="JP10" pin="4" pinfunction="4" pintype="passive"/>
+      <node ref="Q7" pin="5" pinfunction="S" pintype="passive"/>
+      <node ref="R62" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="114" name="VBUSP">
+      <node ref="C5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="C8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="J7" pin="1" pinfunction="VBUSP" pintype="passive"/>
+      <node ref="J7" pin="2" pinfunction="VBUSP" pintype="passive"/>
+      <node ref="Q2" pin="6" pinfunction="D" pintype="passive"/>
+      <node ref="R1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="R3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP31" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="VIN" pintype="input"/>
+      <node ref="U3" pin="14" pinfunction="VCC" pintype="input"/>
+    </net>
+    <net code="115" name="VPD">
+      <node ref="C3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R24" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R39" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R52" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R56" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R61" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R73" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R79" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="R83" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="TP35" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U11" pin="5" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U12" pin="5" pinfunction="VDD" pintype="power_in"/>
+      <node ref="U2" pin="14" pinfunction="V+" pintype="power_in"/>
+    </net>
+    <net code="116" name="unconnected-(J2-PadFEED)">
+      <node ref="J2" pin="FEED" pinfunction="SIGNAL" pintype="bidirectional"/>
+    </net>
+    <net code="117" name="unconnected-(J3-PadFEED)">
+      <node ref="J3" pin="FEED" pinfunction="SIGNAL" pintype="bidirectional"/>
+    </net>
+    <net code="118" name="unconnected-(J4-PadFEED)">
+      <node ref="J4" pin="FEED" pinfunction="SIGNAL" pintype="bidirectional"/>
+    </net>
+    <net code="119" name="unconnected-(J7-Pad4)">
+      <node ref="J7" pin="4" pinfunction="DEVICE-D+" pintype="passive"/>
+    </net>
+    <net code="120" name="unconnected-(J7-Pad5)">
+      <node ref="J7" pin="5" pinfunction="DEVICE-D-" pintype="passive"/>
+    </net>
+    <net code="121" name="unconnected-(J7-Pad7)">
+      <node ref="J7" pin="7" pinfunction="HOST-D+" pintype="passive"/>
+    </net>
+    <net code="122" name="unconnected-(J7-Pad8)">
+      <node ref="J7" pin="8" pinfunction="HOST-D-" pintype="passive"/>
+    </net>
+    <net code="123" name="unconnected-(JP2-Pad6)">
+      <node ref="JP2" pin="6" pinfunction="6" pintype="passive"/>
+    </net>
+    <net code="124" name="unconnected-(JP8-Pad18)">
+      <node ref="JP8" pin="18" pinfunction="18" pintype="passive"/>
+    </net>
+    <net code="125" name="unconnected-(JP8-Pad20)">
+      <node ref="JP8" pin="20" pinfunction="20" pintype="passive"/>
+    </net>
+    <net code="126" name="unconnected-(TP32-Pad1)">
+      <node ref="TP32" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="127" name="unconnected-(TP33-Pad1)">
+      <node ref="TP33" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
