@@ -571,9 +571,6 @@
     (path "/65906ae1-caa6-4da6-81a5-91bc39aac43c/8a97c0c1-c3f9-4a4b-9df7-9cbea774eef3"
       (reference "TP31") (unit 1) (value "TEST-POINT-LARGE-SQUARE") (footprint "oresat-proto-card:1X01")
     )
-    (path "/65906ae1-caa6-4da6-81a5-91bc39aac43c/ea311fca-d20a-4f20-9892-6a4dbe6f4b5a"
-      (reference "TP32") (unit 1) (value "TEST-POINT-LARGE-SQUARE") (footprint "oresat-proto-card:1X01")
-    )
     (path "/65906ae1-caa6-4da6-81a5-91bc39aac43c/7216c8db-f501-4775-b339-317aeb4b7351"
       (reference "TP33") (unit 1) (value "TEST-POINT-LARGE-SQUARE") (footprint "oresat-proto-card:1X01")
     )
